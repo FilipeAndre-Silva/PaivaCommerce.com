@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/JEMCYltisxNtdosrcZOb52RONrEO2FYJpxYi0+ZsQF6TM5bBMXht2lrwbuYEdCivwod1hU6/NhkuC7nfEzJA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\filipe.andre\\Desktop\\Filipe\\PaivaCommerce.com\\PaivaCommerce.Domain\\PaivaCommerce.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filipe.andre\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\filipe.andre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\filipe.andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\filipe.andre\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

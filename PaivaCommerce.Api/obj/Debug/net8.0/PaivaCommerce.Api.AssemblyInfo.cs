@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaivaCommerce.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ebd33b96e8c3dd47aa5083d02f733deb89dcbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da9f87ea9e2541c0feb2325c13578dbe70996d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaivaCommerce.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaivaCommerce.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

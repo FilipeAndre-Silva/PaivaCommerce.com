@@ -1,0 +1,13 @@
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\bin\Debug\net8.0\PaivaCommerce.Domain.deps.json
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\bin\Debug\net8.0\PaivaCommerce.Domain.dll
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\bin\Debug\net8.0\PaivaCommerce.Domain.pdb
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.AssemblyInfo.cs
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.sourcelink.json
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.dll
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\refint\PaivaCommerce.Domain.dll
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.pdb
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\ref\PaivaCommerce.Domain.dll
+C:\Users\filipe.andre\Desktop\Filipe\PaivaCommerce.com\PaivaCommerce.Domain\obj\Debug\net8.0\PaivaCommerce.Domain.csproj.AssemblyReference.cache
