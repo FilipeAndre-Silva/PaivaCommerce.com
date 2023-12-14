@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaivaCommerce.Api", "PaivaCommerce.Api.csproj", "{12EF07C7-63D2-48D7-82B1-D0099D9A407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EF07C7-63D2-48D7-82B1-D0099D9A407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EF07C7-63D2-48D7-82B1-D0099D9A407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EF07C7-63D2-48D7-82B1-D0099D9A407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EF07C7-63D2-48D7-82B1-D0099D9A407E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00748060-EA17-4E0A-88A8-C1E2F8EC0F67}
+	EndGlobalSection
+EndGlobal

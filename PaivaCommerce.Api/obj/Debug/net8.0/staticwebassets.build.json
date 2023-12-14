@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V7+NLDhwXuLKMERC+JT0OAKfTfP6FLMVmnOLXT0x82c=",
+  "Source": "PaivaCommerce.Api",
+  "BasePath": "_content/PaivaCommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
